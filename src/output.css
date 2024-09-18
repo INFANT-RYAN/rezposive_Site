@@ -604,6 +604,10 @@ video {
   width: 100;
 }
 
+.w-1 {
+  width: 0.25rem;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -772,6 +776,10 @@ video {
 
   .md\:gap-3 {
     gap: 0.75rem;
+  }
+
+  .md\:gap-5 {
+    gap: 1.25rem;
   }
 
   .md\:p-3 {
