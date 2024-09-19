@@ -982,6 +982,16 @@ video {
     padding-bottom: 0.5rem;
   }
 
+  .md\:px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .md\:px-6 {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
   .md\:pb-20 {
     padding-bottom: 5rem;
   }
